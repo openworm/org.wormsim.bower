@@ -1,3 +1,3 @@
 org.wormsim.bower
 =================
-Geppetto repository for packaged bower UI components
+Wormsim repository for packaged bower UI components
